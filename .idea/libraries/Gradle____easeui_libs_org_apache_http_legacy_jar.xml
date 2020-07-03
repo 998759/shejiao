@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./easeui/libs/org.apache.http.legacy.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/easeui/libs/org.apache.http.legacy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

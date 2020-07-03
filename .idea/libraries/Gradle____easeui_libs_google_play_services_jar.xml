@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./easeui/libs/google-play-services.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/easeui/libs/google-play-services.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
